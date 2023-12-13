@@ -29,7 +29,7 @@ content:
   address:
     street: Garystr. 55
     city: Berlin
-     postcode: '14195'
+    postcode: '14195'
     country: Germany
     country_code: DE
   directions: Room 222
