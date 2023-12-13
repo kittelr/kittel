@@ -31,12 +31,13 @@ content:
     city: Berlin
     postcode: '14195'
     country: Germany
-    country_code: DE
+    country_code: GER
+  coordinates:
+    latitude: '37.52.44937067096526'
+    longitude: '13.276109384124622'
   directions: Room 222
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'By Appointment'
   contact_links:
     - icon: twitter
       icon_pack: fab
