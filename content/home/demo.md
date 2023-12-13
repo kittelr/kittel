@@ -8,7 +8,7 @@ headless = false  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = "Rebecca C. Kittel"
 subtitle = ""
 
 [design]
