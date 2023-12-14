@@ -11,18 +11,18 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
+#content:
   # Automatically link email and phone or display as text?
-  autolink: true
+#  autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+ # form:
+ #   provider: netlify
+ #   formspree:
+ #     id:
+ #   netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+ #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: rebecca.kittel@fu-berlin.de
@@ -36,8 +36,8 @@ content:
     latitude: '37.52.44937067096526'
     longitude: '13.276109384124622'
   directions: Room 222
-  office_hours:
-    - 'By Appointment'
+#  office_hours:
+#    - 'By Appointment'
   contact_links:
     - icon: twitter
       icon_pack: fab
