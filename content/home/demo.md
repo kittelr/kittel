@@ -5,15 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = false  # This file represents a page section.
-<<<<<<< HEAD
-<<<<<<< HEAD
-active = false # Activate this widget? true/false
-=======
 active = false  # Activate this widget? true/false
->>>>>>> parent of eafea89 (changes)
-=======
-active = false  # Activate this widget? true/false
->>>>>>> parent of eafea89 (changes)
 weight = 15  # Order that this section will appear.
 
 title = "Rebecca C. Kittel"
