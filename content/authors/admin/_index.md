@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/CV.pdf
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,4 +81,4 @@ Before, I was a PhD Researcher at the European University Institute in Florence,
 
 My research interest lies in the fields of comparative politics and political communication with a focus on computational social science methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
