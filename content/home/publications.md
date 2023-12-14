@@ -1,5 +1,4 @@
 ---
-
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -10,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Work in Progress
+title: Recent Publications
 subtitle: ''
 
 content:
