@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: minimal
+  mode: light
+  color: green
   font: minimal
   font_size: M
 
