@@ -1,6 +1,6 @@
 ---
 title: Forging Solidarity
-summary: "Forging Solidarity" is a project that analyzes how politicians, political parties, and interest groups explain the purpose of social policies and political engagement "in the interest of others."
+summary: Forging Solidarity is a project that analyzes how politicians, political parties, and interest groups explain the purpose of social policies and political engagement in the interest of others.
 #tags:
 #  - Deep Learning
 #date: '2016-04-27T00:00:00Z'
