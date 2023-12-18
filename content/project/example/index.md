@@ -13,9 +13,9 @@ external_link: ''
 #  focal_point: Smart
 
 links:
-  - icon: conversation
+  - icon: twitter
     icon_pack: fab
-    name: Project
+    name: Follow
     url: https://sites.google.com/view/forgingsolidarity/home
 url_code: ''
 url_pdf: ''
