@@ -24,7 +24,6 @@ interests:
   - Parliamentary Behaviour
   - Text-As-Data
   - Protest Behaviour
-  - Democratization
 
 # Education to show in About widget
 education:
