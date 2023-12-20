@@ -1,5 +1,5 @@
 ---
-title: LOOPS - The Logistics of POPUPopular Uprisings in Competitive Authoritarian Regimes
+title: LOOPS - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes
 summary: In this research project, we aim to understand the backstage organisation of protest camps in authoritarian regimes and how these structures affect the success of popular uprisings. LOOPS is an interdisciplinary project that relates to research in political science, sociology, history, and media studies and equally speaks to the literature on contentious politics, social movements, authoritarianism, and transformation. 
 #tags:
 #  - Deep Learning
