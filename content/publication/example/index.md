@@ -9,11 +9,11 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2023'
+year: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,21 +37,21 @@ abstract: This dissertation investigates parties’ signalling strategies from v
 #tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#
+#url_pdf: ''
+#url_code: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,17 +78,17 @@ url_video: ''
 
 
 
+#move below
+#{{% callout note %}}
+#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
+#{{% callout note %}}
+#Create your slides in Markdown - click the _Slides_ button to check out the example.
+#{{% /callout %}}
+
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
