@@ -26,7 +26,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+publication: Under Review
 #publication_short: In *ICW*
 
 abstract: Populism research has found much scholarly and public attention alike in recent years. Most research has focused on how populism can be defined, assessed or even measured. Less attention has been paid on understanding how populism works and why populist messages are so appealing. This article positions itself within this gap and aims to answer which discursive elements make (non-) populist messages appealing to varying groups of people. To answer this research question, I conducted a novel survey experiment on vote choice in Germany from December 2020 to January 2021 with N=3,325. Respondents were asked to choose between two candidate statements that displayed varying discursive elements. Thus, the experiment causally tested whether individuals prefer people-centric rhetoric, blame attributive languages or populist style focusing on language complexity. Results show that a neutral form of blame attribution, namely towards politicians had the highest probability to drive vote choice irrespective of respondents underlying ideological preferences or populist attitudes. Simple language nearly always has a negative effect on vote choice whereas people-centrism adds a positive touch. These results show that there may be an increasing dissatisfaction with democracy that is voiced by blaming political elites for the malfunctioning of society.
