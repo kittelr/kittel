@@ -11,9 +11,9 @@ role: Post Doctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Free University Berlin - Institute for East European Studies
-    url: hhttps://www.oei.fu-berlin.de/en/index.html
-  - name: WZB Berlin - Center for Civil Society Research
-    url: hhttps://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research
+    url: https://www.oei.fu-berlin.de/en/index.html
+  - name: WZB  - Center for Civil Society Research
+    url: https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include parliamentary behaviour, populism research, party and voter behavior as well as protest studies.
@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! I am a Post Doctoral Researcher at {{< staticref "https://www.fu-berlin.de/" "newtab" >}}Free University Berlin{{< /staticref >}}, Germany and Guest Researcher at the {{< staticref "https://wzb.eu/en" "newtab" >}}Berlin Social Science Center (WZB){{< /staticref >}}, Germany. I am currently working in the ERC-funded project {{< staticref "https://fruhstorfer.me/loops-erc-starting-grant/" "newtab" >}}LOOPS{{< /staticref >}} - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes.
+Welcome to my website! I am a Post Doctoral Researcher at {{< staticref "https://www.fu-berlin.de/" "newtab" >}}Free University Berlin{{< /staticref >}}, Germany and Guest Researcher at the {{< staticref "https://wzb.eu/en" "newtab" >}}Berlin Social Science Center (WZB){{< /staticref >}}, Germany. I am currently working in the ERC-funded project {{< staticref "https://www.oei.fu-berlin.de/Forschung/loops/index.html" "newtab" >}}LOOPS{{< /staticref >}} - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes.
 
 
 Before, I was a PhD Researcher at the {{< staticref "https://www.eui.eu/en/home" "newtab" >}}European University Institute{{< /staticref >}} in Florence, Italy. My research focuses on elite communication strategies and their effect on voters. To trace party positions and politicians' language style, I applied a series of computational text analysis tools including machine learning and dictionaries. To test the causal effect of language patterns on voter behaviour, I conducted a survey experiment in the German context. I was also visiting researcher at the {{< staticref "https://as.nyu.edu/departments/politics.html" "newtab" >}}NYU Wilf Family Department{{< /staticref >}}.
