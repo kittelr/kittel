@@ -1,5 +1,5 @@
 ---
-title: 'Why are Populists so Popular? A Survey Experiment on the Effect of (Non-) Populist Discourse on Voting Behaviour'
+title: ' What Do Populist and Non-Populist Voters Respond to? A Survey Experiment on the Effect of Simple Language, Blame Attribution and People-Centrism'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
