@@ -12,7 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: 'Forthcoming'
+date: '2004'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +22,10 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: European Journal of Political Research
+publication: European Journal of Political Research, accepted
 #publication_short: In *ICW*
 
 abstract:  Populism research has found much scholarly and public attention alike in recent years. Most research has focused on how populism can be defined, assessed or even measured. Even though there are emerging studies on populist messages, few of them have paid attention on causally identifying ways in which discourse can affect support for populist actors. This article positions itself within this gap and aims to answer which discursive elements make (non-) populist messages appealing to varying groups of people. To answer this research question, I conducted a novel survey experiment on vote choice in Germany from December 2020 to January 2021 with N=3,325. Respondents were asked to choose between two candidate statements that displayed varying discursive elements. Thus, the experiment causally tested whether people-centric rhetoric, blame attributive languages or populist style focusing on language complexity drive the populist vote. Results show that a neutral form of blame attribution, namely towards politicians, had the highest probability of driving vote choice, irrespective of respondents' underlying ideological preferences or populist attitudes. Simple language nearly always has a negative effect on vote choice, whereas people-centrism adds a positive touch. These results show that there may be an increasing dissatisfaction with democracy that is voiced by blaming political elites for the malfunctioning of society. 
