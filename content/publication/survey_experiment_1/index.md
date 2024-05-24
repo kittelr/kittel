@@ -1,5 +1,5 @@
 ---
-title: 'Simplicity of Populist Messages and Its Effect on Citizens - A Survey Experiment'
+title: 'Let's Talk Populist? A Survey Experiment on Effects of (Non-) Populist Discourse on Vote Choice'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-09-01T00:00:00Z'
+date: 'Forthcoming'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,13 +23,29 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review
+publication: European Journal of Political Research
 #publication_short: In *ICW*
 
-abstract: In general, the concept of populism is not related to one specific ideology. Thus, actors with various ideological backgrounds apply populistic language and styles. Elements of populist rhetorical strategies are among others simple language, blame attribution and people-centrism. Even though populist actors use similar frames in their rhetoric, they appeal to voters that display varying characteristics and attitudes. So far, research did not pay much attention to the effect of simple language as a tool of populist rhetoric. Thus, this paper aims to show how simple language in combination with other populist rhetorical strategies has a different effect across various voter groups. Simple language is hypothesized to have a higher effect on people with underlying populist attitudes than without and a lower effect among left-wing than right-wing populist party supporters. To shed light on the effect of rhetorical strategies, I conducted a survey experiment in Germany which is a suitable case as a left-wing as well as right-wing populist party is represented in the national parliament. Thus, voters from various ideological backgrounds are approachable. Between December 2020 and January 2021, a candidate choice experiment was conducted through an online panel company in Germany with N=1748. The paired vignette design asked respondents to choose three times between statements of two candidates and select the candidate they would rather vote for. The statements apply varying attribute levels of language complexity, blame attribution and people-centrism to model left-wing, right-wing as well as centered populist and non-populist messages. The experiment shows that simple language cannot be considered a successful populist rhetorical strategy. Surprisingly, simple language has a rather negative effect on vote choice in general, but also across people with underlying populist attitudes. However, the experimental results provide slight evidence that right-wing populist party voters respond more to simple language than left-wing party voters. 
+abstract: Populism research has found much scholarly and public attention alike in recent years.
+Most research has focused on how populism can be defined, assessed or even measured.
+Even though there are emerging studies on populist messages, few of them have paid
+attention on causally identifying ways in which discourse can affect support for populist
+actors. This article positions itself within this gap and aims to answer which discursive
+elements make (non-) populist messages appealing to varying groups of people. To
+answer this research question, I conducted a novel survey experiment on vote choice in
+Germany from December 2020 to January 2021 with N=3,325. Respondents were asked
+to choose between two candidate statements that displayed varying discursive elements.
+Thus, the experiment causally tested whether people-centric rhetoric, blame attributive
+languages or populist style focusing on language complexity drive the populist vote. Results
+show that a neutral form of blame attribution, namely towards politicians, had the
+highest probability of driving vote choice, irrespective of respondents’ underlying ideological
+preferences or populist attitudes. Simple language nearly always has a negative
+effect on vote choice, whereas people-centrism adds a positive touch. These results show
+that there may be an increasing dissatisfaction with democracy that is voiced by blaming
+political elites for the malfunctioning of society.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
