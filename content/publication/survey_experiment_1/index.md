@@ -1,5 +1,5 @@
 ---
-title: 'Let\'s Talk Populist? A Survey Experiment on Effects of (Non-) Populist Discourse on Vote Choice'
+title: 'Let`s Talk Populist? A Survey Experiment on Effects of (Non-) Populist Discourse on Vote Choice'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
