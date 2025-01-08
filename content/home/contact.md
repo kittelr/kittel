@@ -35,7 +35,7 @@ content:
   coordinates:
     latitude: '37.52.44937067096526'
     longitude: '13.276109384124622'
-  # directions: 
+  directions: Room 222
   office_hours:
     - 'By Appointment'
   contact_links:
